@@ -64,7 +64,7 @@ Google and Adobe have their own code which is generated should you use their fon
 
 A google generated code looks like this:
 
-<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+> "<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">"
 
 Google also tell you how to specify it in CSS (Cascading Style Sheets)
 
