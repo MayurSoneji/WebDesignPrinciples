@@ -8,7 +8,7 @@
 
 > During the Italian renaissance the typographer had one font to work with, and yet this period produced some of the most beautiful typographical work:
 
-![Alt text](https://github.com/MayurSoneji/WebDesignPrinciples/fonts.gif)
+![Alt text](https://github.com/MayurSoneji/WebDesignPrinciples/blob/master/Fonts.gif)
 
 > He should use what is available at the time and use it the best he can.
 
