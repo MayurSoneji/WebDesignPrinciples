@@ -74,7 +74,7 @@ If you were to host a website with a font which is not on these websites, you wo
 
 # An Article I Read
 
-[Article](http://justcreative.com/10/17/the-power-of-typography-in-web-design/
+[Article](http://justcreative.com/10/17/the-power-of-typography-in-web-design/)
 
 # To Sum Up
 
