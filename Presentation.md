@@ -72,6 +72,10 @@ Google also tell you how to specify it in CSS (Cascading Style Sheets)
 
 If you were to host a website with a font which is not on these websites, you would need to either specify the fonts in your directory and link it to there which can take up space, or you could look around and see if anyone hosts fonts to accomplish the same thing google and Adobe provide.
 
+# An Article I Read
+
+[Article](http://justcreative.com/10/17/the-power-of-typography-in-web-design/
+
 # To Sum Up
 
 Choosing the right font is down to many things:
