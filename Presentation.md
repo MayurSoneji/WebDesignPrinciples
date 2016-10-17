@@ -79,9 +79,13 @@ If you were to host a website with a font which is not on these websites, you wo
 # To Sum Up
 
 Choosing the right font is down to many things:
-* The feeling you want to convey
-* Could follow your branding
-* How many weights the family has
-* Font looks as a whole, whether it looks professional or not
+* The feeling you want to convey as the font you choose should represent a story
+* Could follow your branding to enforce trust, and keep it consistent
+* How many weights the family has, to show hierarchy, which makes the user attract easier to headings
+* Font looks as a whole, whether it looks professional or not, depending on what you want to convey
 * Is it easily accessible to anyone?
-
+* If you are pairing your fonts, do they work together?
+* Don't just pick the most used font, it will look terrible in most instances, and it also shows it was a quick website with no thought
+* Always conduct a survey with the fonts as this makes the turnover for a website better
+* Overall a user is going to get most of the information from a font, if they cannot read it or the font doesn't get the correct feeling, you would need to reconsider
+* Colouring of a font also has a huge impact based on the psychological theory of colour 
